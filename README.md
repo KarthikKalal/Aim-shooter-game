@@ -356,5 +356,6 @@ animate();
 ---
 
 # 📦 Installation
+https://claude.ai/public/artifacts/7c64104d-9283-4a0b-a867-5e4a9709931c
 
 ```bash
