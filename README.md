@@ -1,11 +1,9 @@
 # Aim-shooter-game
 # 🎯 AIMFORGE — Futuristic 3D Aim Trainer
 
-![Version](https://img.shields.io/badge/version-v1.0-cyan)
-![Status](https://img.shields.io/badge/status-active-success)
-![Three.js](https://img.shields.io/badge/3D-Three.js-purple)
-![Game](https://img.shields.io/badge/type-Aim%20Trainer-blue)
-![License](https://img.shields.io/badge/license-MIT-black)
+
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/dc880052-53e4-4c0c-a306-747ba63b7ecc" />
 
 ---
 
